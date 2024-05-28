@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data engineering project
 - 📫 How to reach me by Email: nutthawee.cha@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:I likes party
+- ⚡ Fun fact:I like party
 
 <!---
 Salmonways/Salmonways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
