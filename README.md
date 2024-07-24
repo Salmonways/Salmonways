@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salmonways
+- 👋 Hi, I’m Nutthawee Charoenngampis
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data science bachalor.
 - 💞️ I’m looking to collaborate on data engineering project
